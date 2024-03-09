@@ -10,7 +10,7 @@ copy and paste this to the `rule-providers` block of your clash config file.
   openai:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/guohuanwen/clash-ruleset/main/ruleset/openai.yaml"
+    url: "https://raw.githubusercontent.com/guohuanwen/clash-ruleset/master/ruleset/openai.yaml"
     path: ./ruleset/openai.yaml
     interval: 86400
 ```
@@ -27,4 +27,4 @@ Mind the indent.
 
 - openai
 
-https://raw.githubusercontent.com/guohuanwen/clash-ruleset/main/ruleset/openai.yaml
+https://raw.githubusercontent.com/guohuanwen/clash-ruleset/master/ruleset/openai.yaml
